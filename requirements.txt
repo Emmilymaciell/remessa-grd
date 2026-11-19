@@ -1,0 +1,4 @@
+# medido no levantamento da Fase 7 (py -3.12, 2026-10-11)
+openpyxl==3.1.5
+pillow==12.1.0
+# opcional, so com logo SVG (fase2_gerar_grd_por_rodovia.py): cairosvg (exige a lib nativa cairo)
